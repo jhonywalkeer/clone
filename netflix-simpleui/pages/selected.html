@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Clone of the netflix UI, functional and able to access (without the need for email and password) the series list, the selected series and the player loading.">
+    <link rel="icon" type="icon" href="./assets/nficon2016.ico"/>
+    <link rel="stylesheet" href="./styles/selected.css"></link>
+    <title>Netflix</title>
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+          <nav>
+            <a href="./pages/list.html" id="logo"><i><img src="./assets/netflix-logo-classic.png"/></i></a>
+            <nav class="main-nav">                
+              <a href="#home">Home</a>
+              <a href="#tvShows">TV Shows</a>
+              <a href="#movies">Movies</a>
+              <a href="#originals">Originals</a>
+              <a href="#">Recently Added</a>    
+            </nav>
+            <div class="right-menu">
+              <i class="fa fa-search"><img src="./assets/search-icon.png"></i>
+              <i class="fa fa-search"><img src="./assets/notify-icon.png"></i>
+                <div class="user">
+                  <a href="https://github.com/JhonyWalker-pixel">Account</a>
+              </div>
+            </div>
+          </nav>
+          <div class="description">
+            <img class="show-logo" src="./assets/daredevil-logo.png"/>
+            <p>Blinded as a young boy, Matt Murdock fights injustice by day as a lawyer and by night as the Super Hero Daredevil in Hell's Kitchen, New York City.</p>
+            <a href="./pages/play.html"><button class="play"><img src="./assets/play.png" width="10" weight= "10"> TRAILER</button></a>
+            <button class="add"><img src="./assets/plus.png" width="10" weight= "10"> MY LIST</button>
+          </div>
+        </header>
+        <section class="cards">
+            <h1 class="l-cards__title">TV Shows</h1>
+            <ul class="l-cards__list">
+                <li class="l-cards__item"><img src="./assets/chuck.png" alt="Chuc"</li>
+                <li class="l-cards__item"><img src="./assets/theoffice.png" alt="The Office"></li>
+                <li class="l-cards__item"><img src="./assets/everybody.png" alt="Everybody Hates Chris"></li>
+                <li class="l-cards__item"><img src="./assets/neds-declassified.png" alt="Ned"></li>
+                <li class="l-cards__item"><img src="./assets/suits.png" alt="Suis"></li>
+            </ul>
+        </section>
+        <section class="cards">
+            <h1 class="l-cards__title">Trending Now</h1>
+            <ul class="l-cards__list">
+                <li class="l-cards__item"><img src="./assets/parasite.png" alt="Parasite"></li>
+                <li class="l-cards__item"><img src="./assets/johnwick3.png" alt="John Wick 3"></li>
+                <li class="l-cards__item"><img src="./assets/kingsman.png" alt="Kingsman"></li>
+                <li class="l-cards__item"><img src="./assets/forrestgump.png" alt="Forrest Gump"></li>
+                <li class="l-cards__item"><img src="./assets/thegetlemen.png" alt="The Gentleman"></li>
+            </ul>
+        </section>
+        </article>
+        </main>
+    </div>
+</body>
+</html>

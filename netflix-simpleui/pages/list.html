@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Clone of the netflix UI, functional and able to access (without the need for email and password) the series list, the selected series and the player loading.">
+    <link rel="icon" type="icon" href="./assets/nficon2016.ico"/>
+    <link rel="stylesheet" href="./styles/list.css"></link>
+    <title>Netflix</title>
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+          <div class="netflixLogo">
+            <a id="logo" href="#home"><img src="./assets/netflix-logo-classic.png"></a>
+          </div>      
+          <nav class="main-nav">                
+            <a href="#home">Home</a>
+            <a href="#tvShows">TV Shows</a>
+            <a href="#movies">Movies</a>
+            <a href="#originals">Originals</a>
+            <a href="#">Recently Added</a>    
+          </nav>
+          <nav class="sub-nav">
+            <a href="#"><img src="./assets/search-icon.png" width="16" weight= "16"></a>
+            <a href="#"><img src="./assets/notify-icon.png" width="16" weight= "16"></a>
+            <a href="https://github.com/JhonyWalker-pixel">Account</a>
+          </nav>      
+        </header>
+        <section class="main-container" >
+          <div class="location" id="home">
+              <h1 id="home">Popular on Netflix</h1>
+              <div class="box">
+                <a href="./pages/selected.html"><img src="./assets/daredevil.png" alt="Daredevil"></a>
+                <a href="./pages/study.html"><img src="./assets/read-player-one.png" alt="Ready Player One"></a>
+                <a href="./pages/study.html"><img src="./assets/peaky-blinders.png" alt="Peaky Blinders"></a>
+                <a href="./pages/study.html"><img src="./assets/gunsakibo.png" alt="Guns Akibo"></a>
+                <a href="./pages/study.html"><img src="./assets/strager-things.png" alt="Stranger Things"></a>
+                <a href="./pages/study.html"><img src="./assets/howto.png" alt="How To Sells Drugs Online"></a>
+                <a href="./pages/study.html"><img src="./assets/breakingbad.png" alt="Breaking Bad"></a>
+                <a href="./pages/study.html"><img src="./assets/brooklyn99.png" alt="Brooklyn Nine-Nine"></a>
+                <a href="./pages/study.html"><img src="./assets/punisher.png" alt="Punisher"></a>
+                <a href="./pages/study.html"><img src="./assets/you.png" alt="You"></a>
+                <a href="./pages/study.html"><img src="./assets/superstore.png" alt="Superstore"></a>
+                <a href="./pages/study.html"><img src="./assets/controlz.png" alt="Control-Z"></a>        
+              </div>
+          </div>
+          <h1 id="myList">Trending Now</h1>
+            <div class="box">
+              <a href="./pages/study.htm"><img src="./assets/parasite.png" alt="Parasite"></a>
+              <a href="./pages/study.htm"><img src="./assets/johnwick3.png" alt="John Wick 3"></a>
+              <a href="./pages/study.htm"><img src="./assets/kingsman.png" alt="Kingsman"></a>
+              <a href="./pages/study.htm"><img src="./assets/forrestgump.png" alt="Forrest Gump"></a>
+              <a href="./pages/study.htm"><img src="./assets/thegetlemen.png" alt="The Gentleman"></a>
+              <a href="./pages/study.htm"><img src="./assets/justfriends.png" alt="Just Friends"></a>                  
+          </div>
+          <h1 id="tvShows">TV Shows</h1>
+            <div class="box">
+              <a href="./pages/study.htm"><img src="./assets/chuck.png" alt="Chuck"></a>
+              <a href="./pages/study.htm"><img src="./assets/theoffice.png" alt="The Office"></a>
+              <a href="./pages/study.htm"><img src="./assets/everybody.png" alt="Everybody Hates Chris"></a>
+              <a href="./pages/study.htm"><img src="./assets/neds-declassified.png" alt="Ned"></a>
+              <a href="./pages/study.htm"><img src="./assets/suits.png" alt="Suits"></a>
+              <a href="./pages/study.htm"><img src="./assets/two-and-a-half-man.png" alt="Two And a Half Man"></a>
+              <a href="./pages/study.htm"><img src="./assets/howmet.png" alt="How Meet You Mother"></a>
+              <a href="./pages/study.htm"><img src="./assets/thebingbang.png" alt="The Big Bang Theory"></a>
+              <a href="./pages/study.htm"><img src="./assets/vikings.png" alt="Vinkings"></a>
+              <a href="./pages/study.htm"><img src="./assets/grimm.png" alt="Grimm"></a>
+              <a href="./pages/study.htm"><img src="./assets/hannibal.png" alt="Hannibal"></a>
+              <a href="./pages/study.htm"><img src="./assets/peaky-blinders.png" alt="Peaky Blinders"></a>              
+          </div>
+            <h1 id="movies">Blockbuster Action & Adventure</h1>
+            <div class="box">
+              <a href="./pages/study.htm"><img src="./assets/accountant.png" alt="Accountant"></a>
+              <a href="./pages/study.htm"><img src="./assets/lord-of-war.png" alt="Lord of War"></a>
+              <a href="./pages/study.htm"><img src="./assets/peppermint.png" alt="Peppermint"></a>
+              <a href="./pages/study.htm"><img src="./assets/mitty.png" alt="Mitty"></a>
+              <a href="./pages/study.htm"><img src="./assets/going.png" alt="Going In Style"></a>
+              <a href="./pages/study.htm"><img src="./assets/equalizer2.png" alt="Equalizer 2"></a>                
+          </div>
+            <h1 id="originals">Netflix Originals</h1>
+            <div class="box">
+              <a href="./pages/study.htm"><img src="./assets/theranch.png" alt="The Ranch"></a>
+              <a href="./pages/study.htm"><img src="./assets/bettercallsaul.png" alt="Better Caul Saul"></a>
+              <a href="./pages/study.htm"><img src="./assets/lukecage.png" alt="Luke Cage"></a>
+              <a href="./pages/study.htm"><img src="./assets/shooter.png" alt="Shooter"></a>
+              <a href="./pages/study.htm"><img src="./assets/thewitcher.png" alt="The Witcher"></a>
+              <a href="./pages/study.htm"><img src="./assets/unfortune.png" alt="Unfortune Events"></a>              
+          </div>
+        <section class="link">
+          <div class="sub-links">
+            <ul>
+              <li><a href="#">Audio and Subtitles</a></li>
+              <li><a href="#">Audio Description</a></li>
+              <li><a href="#">Help Center</a></li>
+              <li><a href="#">Gift Cards</a></li>
+              <li><a href="#">Media Center</a></li>
+              <li><a href="#">Investor Relations</a></li>
+              <li><a href="#">Jobs</a></li>
+              <li><a href="#">Terms of Use</a></li>
+              <li><a href="#">Privacy</a></li>
+              <li><a href="#">Legal Notices</a></li>
+              <li><a href="#">Corporate Information</a></li>
+              <li><a href="#">Contact Us</a></li>
+            </ul>
+          </div>
+        </section>
+        <footer>
+          <p>&copy 1997-2018 Netflix, Inc.</p>
+          <p>Jhony Walker &copy 2018</p>
+        </footer>
+      </div>
+</body>
+</html>

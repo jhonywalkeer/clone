@@ -1,0 +1,147 @@
+body {
+    position: relative;
+    display: -webkit-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url('https://assets.nflxext.com/ffe/siteui/vlv3/a1dc92ca-091d-4ca9-a05b-8cd44bbfce6a/f9368347-e982-4856-a5a4-396796381f28/RS-en-20191230-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #b3b3b3;
+    background-blend-mode: multiply;
+}
+
+.logo {
+    position: absolute;
+    align-self: flex-start;
+    left: 10px;
+}
+
+.logo img {
+    width: 180px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.login {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+    background: rgba(0, 0, 0, 0.75);
+    border-radius: 4px;
+    width: 300px;
+    height: 400px;
+    padding: 60px 68px 40px;
+}
+
+.login-title {
+    margin-bottom: 20px;
+    font-size: 2.2rem;
+    font-weight: 600;
+    color: #fff;
+}
+
+.login-group {
+    position: relative;
+    z-index: 10;
+    display: -webkit-box;
+    display: flex;
+}
+
+.login-label {
+    position: absolute;
+    z-index: 150;
+    color: #b3b3b3;
+    font-size: 0.9rem;
+    top: 30px;
+    left: 18px;
+    -webkit-transition: all 300ms ease-in;
+    transition: all 300ms ease-in;
+}
+
+.login-input {
+    width: 100%;
+    position: relative;
+    z-index: 100;
+    background: #333;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    border: none;
+    opacity: 1;
+    font-size: 1rem;
+    color: #fff;
+    line-height: 50px;
+    padding: 12px 18px 0;
+}
+
+.login-input:focus + .login-label {
+    top: 15px;
+    font-size: 0.7rem;
+}
+
+.sign-in {
+    margin: 15px 0 12px;
+    padding: 16px;
+    width: 300px;
+    height: 50px;
+    color: #fff;
+    background: #e50914;
+    font-size: 0.9rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.helps {
+    position: relative;
+    z-index: 100;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.remember {
+    opacity: 1;
+    font-size: 0.9rem;
+    color: #b3b3b3;
+    text-decoration: none;
+}
+  
+.need-help {
+    color: #b3b3b3;
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+    text-decoration: none;
+}
+ 
+.need-help:hover {
+    text-decoration: none;
+}
+  
+::-webkit-input-placeholder {
+    font-size: 0.7rem;
+}
+  
+::-moz-placeholder {
+    font-size: 0.7rem;
+}
+  
+:-ms-input-placeholder {
+    font-size: 0.7rem;
+}
+  
+::-ms-input-placeholder {
+    font-size: 0.7rem;
+}
+  
+::placeholder {
+    font-size: 0.7rem;
+}

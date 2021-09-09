@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .center-content {
+    width: 100%;
+    max-width: 130em;
+    margin: 0 auto;
+    position: relative;
+  }
+  
+  body {
+    width: 100%;
+    height: auto;
+  }
+
+  body .bg-lp {
+    width: 100%;
+    height: 100vh;
+    display: block;
+    margin: 0 auto;
+    background: url("https://art-s.nflximg.net/671e5/4c310502f5bb23f89e1e278f69ad61ea238671e5.jpg");
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    z-index: 999;
+  }
+
+  body .faf.fa-times {
+    color: rgba(255, 255, 255, 0.72);
+    display: block;
+    position: absolute;
+    right: 0;
+    font-family: FontAwesome;
+    z-index: 999999999;
+    font-size: 3em;
+    margin: 0 0.5em;
+    font-style: italic;
+    font-weight: 100;
+    cursor: pointer;
+    transition: all 0.4s ease;
+  }
+
+  body .faf.fa-times:hover {
+    color: #fff;
+  }
+  
+  body .mask {
+    background: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    z-index: 99999999;
+  }
+  
+  .loading {
+    width: 160px;
+    height: 160px;
+    border-radius: 150px;
+    border: 15px solid #fff;
+    border-top-color: rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -80px;
+    margin-left: -80px;
+    animation: loading 1.2s linear infinite;
+    z-index: 999999999;
+  }
+  
+  @keyframes loading {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  .text-left {
+    color: #fff;
+    z-index: 999999999;
+    width: 50%;
+    height: auto;
+    position: absolute;
+    font-size: 1.4em;
+    color: rgba(255, 255, 255, 0.72);
+    font-weight: 700;
+    margin: 2em;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  .text-left h1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  .text-left small {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  
+  @media only screen and (max-device-width: 600px) {
+    .text-left {
+      margin: 5em auto;
+      text-align: center;
+      display: block;
+      width: 95%;
+    }
+  
+    .loading {
+      width: 5em;
+      height: 5em;
+      margin-top: 2em;
+      margin-left: -45px;
+    }
+  }
