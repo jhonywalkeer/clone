@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+<meta charset="UTF-8">
+<link rel="icon" type="icon" href="./assets/whatsapp-logo.png"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel="stylesheet" href="./styles/style.css">
+<title>WhatsApp Web</title>
+</head>
+<body>
+<section class="main-grid">  
+  <aside class="main-side">
+     <header class="common-header">
+       <div class="common-header-start">
+           <button class="u-flex js-user-nav">
+             <img class="profile-image" src="./assets/me.png" alt="Me"/>
+             <div class="common-header-content">
+                <h1 class="common-header-title">Jhony Walker</h1>
+            </div>
+           </button>       
+       </div>
+       <nav class="common-nav">
+           <ul class="common-nav-list">
+             <li class="common-nav-item">
+               <button class="common-button">
+                 <span class="icon"><img src="./assets/status.png" alt="Status" width="30" weight= "30"/></span>
+               </button>
+             </li>
+             <li class="common-nav-item">
+               <button class="common-button">
+                 <span class="icon icon-status"><img src="./assets/messages.png" alt="Messages" width="30" weight= "30"/></span>
+               </button>
+             </li>
+             <li class="common-nav-item">
+               <button class="common-button">
+                 <span class="icon icon-menu" aria-label="menu"></span>
+               </button>
+             </li>
+           </ul>
+         </nav>
+     </header>
+    <section class="common-alerts"></section>
+    <section class="common-search">
+        <input type="search" class="text-input" placeholder="Search or start new chat">
+    </section>
+    <section class="chats">
+      <ul class="chats-list">
+        <li class="chats-item">
+          <div class="chats-item-button js-chat-button" role="button" tabindex="0">
+            <img class="profile-image" src="./assets/visitors.png" alt="Chats">
+            <header class="chats-item-header">
+              <h3 class="chats-item-title">Visitors</h3>
+              <time class="chats-item-time">12:30</time>
+            </header>
+            <div class="chats-item-content">
+              <p class="chats-item-last">Follow my Dribble and LinkedIn to view my new projects!</p>
+              <ul class="chats-item-info">
+                <li class="chats-item-info-item"><span class="icon-silent"></span></li>
+                <li class="chats-item-info-item"><span class="unread-messsages">1</span></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="chats-item">
+          <div class="chats-item-button js-chat-button" role="button" tabindex="0">
+            <img class="profile-image" src="./assets/dribble.png" alt="Dribble">
+            <header class="chats-item-header">
+              <h3 class="chats-item-title">Dribble</h3>
+              <time class="chats-item-time">12:05</time>
+            </header>
+            <div class="chats-item-content">
+              <p class="chats-item-last">Come see my profile</p>
+              <ul class="chats-item-info">
+                <li class="chats-item-info-item u-hide"><span class="icon-silent"></span></li>
+                <li class="chats-item-info-item"><span class="unread-messsages">1</span></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="chats-item">
+          <div class="chats-item-button js-chat-button" role="button" tabindex="0">
+            <img class="profile-image" src="./assets/contacts.png" alt="Chats">
+            <header class="chats-item-header">
+              <h3 class="chats-item-title">+55 36 98876-87569</h3>
+              <time class="chats-item-time">12:05</time>
+            </header>
+            <div class="chats-item-content">
+              <p class="chats-item-last">What technologies do you know?</p>
+              <ul class="chats-item-info">
+                <li class="chats-item-info-item u-hide"><span class="icon-silent"></span></li>
+                <li class="chats-item-info-item"><span class="unread-messsages"></span></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="chats-item">
+          <div class="chats-item-button js-chat-button" role="button" tabindex="0">
+            <img class="profile-image" src="./assets/contacts.png" alt="Chats">
+            <header class="chats-item-header">
+              <h3 class="chats-item-title">Eduardo</h3>
+              <time class="chats-item-time">11:57</time>
+            </header>
+            <div class="chats-item-content">
+              <p class="chats-item-last">Let's code more</p>
+              <ul class="chats-item-info">
+                <li class="chats-item-info-item u-hide"><span class="icon-silent"></span></li>
+                <li class="chats-item-info-item"><span class="unread-messsages">3</span></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="chats-item">
+          <div class="chats-item-button js-chat-button" role="button" tabindex="0">
+            <img class="profile-image" src="./assets/contacts.png" alt="Chats"">
+            <header class="chats-item-header">
+              <h3 class="chats-item-title">Pablo</h3>
+              <time class="chats-item-time">11:48</time>
+            </header>
+            <div class="chats-item-content">
+              <p class="chats-item-last">The clone was quite ...</p>
+              <ul class="chats-item-info">
+                <li class="chats-item-info-item u-hide"><span class="icon-silent"></span></li>
+                <li class="chats-item-info-item"><span class="unread-messsages">1</span></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="chats-item">
+          <div class="chats-item-button js-chat-button" role="button" tabindex="0">
+            <img class="profile-image" src="./assets/contacts.png" alt="Chats">
+            <header class="chats-item-header">
+              <h3 class="chats-item-title">+55 32 99875-54269</h3>
+              <time class="chats-item-time">Yesterday</time>
+            </header>
+            <div class="chats-item-content">
+              <p class="chats-item-last">The is very nice!</p>
+              <ul class="chats-item-info">
+                <li class="chats-item-info-item u-hide"><span class="icon-silent"></span></li>
+                <li class="chats-item-info-item"><span class="unread-messsages"></span></li> 
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="chats-item">
+          <div class="chats-item-button js-chat-button" role="button" tabindex="0">
+            <img class="profile-image" src="./assets/contacts.png" alt="Chats">
+            <header class="chats-item-header">
+              <h3 class="chats-item-title">Ana</h3>
+              <time class="chats-item-time">Yesterday</time>
+            </header>
+            <div class="chats-item-content">
+              <p class="chats-item-last">Don't forget this article</p>
+              <ul class="chats-item-info">
+                <li class="chats-item-info-item u-hide"><span class="icon-silent"></span></li>
+                <li class="chats-item-info-item"><span class="unread-messsages"></span></li> 
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="chats-item">
+          <div class="chats-item-button js-chat-button" role="button" tabindex="0">
+            <img class="profile-image" src="./assets/contacts.png" alt="Chats">
+            <header class="chats-item-header">
+              <h3 class="chats-item-title">Izabela</h3>
+              <time class="chats-item-time">Yesterday</time>
+            </header>
+            <div class="chats-item-content">
+              <p class="chats-item-last">Great!</p>
+              <ul class="chats-item-info">
+                <li class="chats-item-info-item u-hide"><span class="icon-silent"></span></li>
+                <li class="chats-item-info-item"><span class="unread-messsages"></span></li> 
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="chats-item">
+          <div class="chats-item-button js-chat-button" role="button" tabindex="0">
+            <img class="profile-image" src="./assets/contacts.png" alt="Chats">
+            <header class="chats-item-header">
+              <h3 class="chats-item-title">Matheus</h3>
+              <time class="chats-item-time">Yesterday</time>
+            </header>
+            <div class="chats-item-content">
+              <p class="chats-item-last">I have an idea for you</p>
+              <ul class="chats-item-info">
+                <li class="chats-item-info-item u-hide"><span class="icon-silent"></span></li>
+                <li class="chats-item-info-item"><span class="unread-messsages"></span></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="chats-item">
+          <div class="chats-item-button js-chat-button" role="button" tabindex="0">
+            <img class="profile-image" src="./assets/contacts.png" alt="Chats">
+            <header class="chats-item-header">
+              <h3 class="chats-item-title">Adriana</h3>
+              <time class="chats-item-time">Sunday</time>
+            </header>
+            <div class="chats-item-content">
+              <p class="chats-item-last">This is awesome!</p>
+              <ul class="chats-item-info">
+                <li class="chats-item-info-item u-hide"><span class="icon-silent"></span></li>
+                <li class="chats-item-info-item"><span class="unread-messsages"></span></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="chats-item">
+          <div class="chats-item-button js-chat-button" role="button" tabindex="0">
+            <img class="profile-image" src="./assets/contacts.png" alt="Chats">
+            <header class="chats-item-header">
+              <h3 class="chats-item-title">Gabriel</h3>
+              <time class="chats-item-time">Sunday</time>
+            </header>
+            <div class="chats-item-content">
+              <p class="chats-item-last">Whats up?</p>
+              <ul class="chats-item-info">
+                <li class="chats-item-info-item u-hide"><span class="icon-silent"></span></li>
+                <li class="chats-item-info-item"><span class="unread-messsages"></span></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="chats-item">
+          <div class="chats-item-button js-chat-button" role="button" tabindex="0">
+            <img class="profile-image" src="./assets/contacts.png" alt="Chats">
+            <header class="chats-item-header">
+              <h3 class="chats-item-title">Cláudio</h3>
+              <time class="chats-item-time">Saturday</time>
+            </header>
+            <div class="chats-item-content">
+              <p class="chats-item-last">It was a great talk</p>
+              <ul class="chats-item-info">
+                <li class="chats-item-info-item u-hide"><span class="icon-silent"></span></li>
+                <li class="chats-item-info-item"><span class="unread-messsages"></span></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="chats-item">
+          <div class="chats-item-button js-chat-button" role="button" tabindex="0">
+            <img class="profile-image" src="./assets/contacts.png" alt="Chats">
+            <header class="chats-item-header">
+              <h3 class="chats-item-title">+55 11 99987-54456</h3>
+              <time class="chats-item-time">Friday</time>
+            </header>
+            <div class="chats-item-content">
+              <p class="chats-item-last">Open for freelance?</p>
+              <ul class="chats-item-info">
+                <li class="chats-item-info-item u-hide"><span class="icon-silent"></span></li>
+                <li class="chats-item-info-item"><span class="unread-messsages"></span></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="chats-item">
+          <div class="chats-item-button js-chat-button" role="button" tabindex="0">
+            <img class="profile-image" src="./assets/contacts.png" alt="Chats">
+            <header class="chats-item-header">
+              <h3 class="chats-item-title">Marcos</h3>
+              <time class="chats-item-time">Friday</time>
+            </header>
+            <div class="chats-item-content">
+              <p class="chats-item-last">Thanks a lot!</p>
+              <ul class="chats-item-info">
+                <li class="chats-item-info-item u-hide"><span class="icon-silent"></span></li>
+                <li class="chats-item-info-item"><span class="unread-messsages"></span></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </section>
+  </aside>  
+  <main class="main-content">
+    <header class="common-header">
+       <div class="common-header-start">  
+         <button class="common-button is-only-mobile u-margin-end js-back"><span class="icon icon-back">⬅</span></button>
+         <button class="u-flex js-side-info-button">
+             <img class="profile-image" src="./assets/visitors.png" alt="Visitors">
+             <div class="common-header-content">
+               <h2 class="common-header-title">Visitors</h2>
+               <p class="common-header-status">Online</p>
+             </div>
+           </button>       
+       </div>
+       <nav class="common-nav">
+           <ul class="common-nav-list">
+             <li class="common-nav-item">
+               <button class="common-button">
+                 <span class="icon"><img src="./assets/search.png" alt="Search" width="20" weight= "20"/></span>
+               </button>
+             </li>
+             <li class="common-nav-item">
+               <button class="common-button u-animation-click js-side-info-button">
+                 <span class="icon icon-menu" aria-label="menu"></span>
+               </button>
+             </li>
+           </ul>
+         </nav>
+     </header>
+    <div class="messanger">
+      <ol class="messanger-list">
+        <li class="common-message is-time">
+          <p class="common-message-content">
+            Today
+          </p>          
+        </li>
+        <li class="common-message is-you">
+          <p class="common-message-content">
+            This is my Whatsapp Web clone in CSS and HTML
+          </p>
+          <span class="status is-seen"><img src="./assets/viewed.png" alt="Viewed" width="20" weight= "20"/></span>
+          <time datetime>14:11</time>
+        </li>
+        <li class="common-message is-you">
+          <p class="common-message-content">
+            Just take a look
+          </p>
+          <span class="status is-seen"><img src="./assets/viewed.png" alt="Viewed" width="20" weight= "20"/></span>
+          <time datetime>14:12</time>
+        </li> 
+        <li class="common-message is-other">        
+          <p class="common-message-content">
+            Who are you?
+          </p>
+          <time datetime>14:33</time>          
+        </li>
+        <li class="common-message is-you">        
+          <p class="common-message-content">            
+            I am Jhony Walker, a young student in the Front-end area looking <br>
+            for constant improvement in my knowledge to deliver the best experiences for users.
+            Get to know a little of my projects by accessing my <a href="https://github.com/JhonyWalker-pixel" tarhet="_blank">GitHub</a> and
+            <a href="https://dribbble.com/JhonyWalker-pixel" tarhet="_blank">Dribble</a>
+        
+          </p>
+          <span class="status is-seen"><img src="./assets/viewed.png" alt="Viewed" width="20" weight= "20"/></span>
+          <time datetime>14:41</time>
+        </li>
+        <li class="common-message is-other">        
+          <p class="common-message-content">
+            Who's those peoples on the contact list?
+          </p>
+          <time datetime>14:33</time>          
+        </li>
+        <li class="common-message is-you">        
+          <p class="common-message-content">
+            Unfortunately, they are just avatars created by me to simulate a common list
+          </p>
+           <span class="status"><img src="./assets/received.png" alt="Received" width="20" weight= "20"/></span>
+          <time datetime>14:34</time>
+        </li>
+        <li class="common-message is-you">        
+          <p class="common-message-content">
+            We hope you like the look and that you see similarities to Whatssap Web Original
+          </p>
+          <span class="status"><img src="./assets/received.png" alt="Received" width="20" weight= "20"/></span>
+          <time datetime>14:43</time>
+        </li>
+        <li class="common-message is-you">        
+          <p class="common-message-content">
+            Follow my Dribble and LinkedIn to view my new projects!
+          </p>
+          <span class="status"><img src="./assets/received.png" alt="Received" width="20" weight= "20"/></span>
+          <time datetime>14:43</time>
+        </li>
+    </ol>
+    </div>    
+    <div class="message-box">
+      <button class="common-button">
+        <span class="icon"><img src="./assets/emoji.png" alt="Emoji" width="20" weight= "20"/></span></button>
+      <button class="common-button">
+        <span class="icon icon-attach"><img src="./assets/clip.png" alt="Clip" width="20" weight= "20"/></span>
+      </button>
+
+      <div class="text-input" id="message-box" placeholder="Type a message" contenteditable></div>
+      <button id="voice-button" class="common-button"><span class="icon"><img src="./assets/microphone.png" alt="Microphone" width="15" weight= "15"/></span></button>
+    </div>  
+  </main>
+</section>
+</body>
+</html>
