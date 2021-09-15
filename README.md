@@ -15,6 +15,8 @@ Este repositório é um copilado de todos clones de sistemas, portais e etc.. qu
 
 - [Twitch UI](https://github.com/JhonyWalker-pixel/games/tree/master/trex-game) - Clone simples da IU do Twitch mostrando uma tela principal com transmissões ao vivo e jogos.
 
+- [Windows 8 Workspace UI](https://github.com/JhonyWalker-pixel/games/tree/master/trex-game) - Clone simples da IU do Twitch mostrando uma tela principal com transmissões ao vivo e jogos.
+
 
 ## 🛠 Tecnologias
 
