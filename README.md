@@ -9,7 +9,7 @@ Este repositório é um copilado de todos clones de sistemas, portais e etc.. qu
 ## 🚩 Navegando pelos projetos
 
 
-- [CMD Windows UI](https://github.com/JhonyWalker-pixel/clone/tree/master/netflix-simpleui) - clone da interface do CMD mais famoso do mundo que está presente no Windows.
+- [CMD Windows UI](https://github.com/JhonyWalker-pixel/clone/tree/master/netflix-simpleui) - Clone da interface do CMD mais famoso do mundo que está presente no Windows.
 
 - [Netflix UI](https://github.com/JhonyWalker-pixel/clone/tree/master/netflix-simpleui) - Clone da IU do netflix, funcional e capaz de acessar (sem a necessidade de e-mail e senha) a lista de séries, a série selecionada e o carregamento do player
 
