@@ -3,47 +3,48 @@
     <img src="./assets/icon-repo-netflix.png" alt="Netflix Clone by Jhony Walker" width="300px" />
 </h1>
 
-## 💻 Resumo do projeto
+## 💻 Repository summary
 
-Clone da IU do netflix, funcional e capaz de acessar (sem a necessidade de e-mail e senha) a lista de séries, a série selecionada e o carregamento do player
+Netflix UI clone, functional and able to access (no email and password required) the series list, selected series and player loading
 
 ```text
-⚠ ESTE PROJETO É APENAS UM ESTUDO NÃO UTILIZADO DE MANEIRA MALIOSA
+⚠ THESE PROJECTS ARE JUST A MALICIOUS UNUSED STUDY
 ```
 
-#### Projeto foi construído utilizando **HTML** e CSS mas o que é isso ?
+## 🛠 Technologies
 
-- **HTML** ou HyperText Markup Language, que significa: "Linguagem de Marcação de Hipertexto" é uma linguagem de marcação utilizada na construção do "esqueleto" de páginas na Web.
+#### Project was built using **HTML** and **CSS** but what is this?
 
-- **CSS** ou Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web.
+- **HTML** or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
+
+- **CSS** or Cascading Style Sheets is a mechanism for adding style to a web document.
 
 
-## :bookmark: Como usar:
+## :bookmark: How to use
 
- - Primeira tela: apresenta a página principal do netflix onde mostra o que é e a opção de experimentá-lo por 30 dias. Clique em ```sign in``` para ir para a próxima tela
+ - First screen: presents the main page of netflix where it shows what it is and the option to try it for 30 days. Click ```sign in``` to go to the next screen
 
- - Segunda tela: apresenta a tela de login para o usuário, para acessar a próxima tela clique em ```sign in```
+ - Second screen: presents the login screen to the user, to access the next screen click ```sign in```
 
- - Terceira tela: apresenta a opção de escolher quem está assistindo (todos vão para a quarta tela) .Clique em   ```qualquer uma das quatro opções```
+ - Third screen: presents the option to choose who is watching (everyone goes to the fourth screen) .Click ```any of the four options```
 
- - Quarta tela: apresenta uma lista de séries e filmes à sua escolha (a única opção que leva à quinta página é o Demolidor). clique no ```banner da série Daredevil``` para ir para a quinta tela.
+ - Fourth screen: presents a list of series and movies to choose from (the only option that leads to the fifth page is Daredevil). click the ```Daredevil series banner``` to go to the fifth screen.
 
- - Quinta tela: apresenta as informações da série, com recomendações a seguir. Para ir para a sexta e última tela, clique em ```trailer```
+ - Fifth screen: presents the series information, with recommendations to follow. To go to the sixth and final screen, click ```trailer```
 
- - Sexta e última tela: apresenta a tela de carregamento do jogador para iniciar a reprodução do trailer- Sexta e última tela: apresenta a tela de carregamento do jogador para iniciar a reprodução do trailer
+ - Sixth and last screen: Shows the player loading screen to start playing the trailer - Sixth and last screen: Shows the player loading screen to start playing the trailer
 
-## 🔨 Instalação Local
+## 🔨 Local Installation
 
-Você precisará do [GIT](https://git-scm.com/) na versão mais atualizada, instalado no seu computador para continuar.
+You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
 $ cd netflix-simpleui
 $ code .
 ```
 
-E agora para rodar nosso clone localmente basta abrir o arquivo `index.html` e abrir com a extensão do **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
-
+And now to run our portal locally just open the `index.html` file and open it with the **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** extension**
 
 ## 📖 License
 
-Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under license from MIT. See the [LICENSE](LICENSE.md) file for more details.

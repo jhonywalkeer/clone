@@ -3,33 +3,33 @@
     <img src="./assets/icon-repo-whatsapp.png" alt="Whatsapp Web Clone by Jhony Walker" width="300px" />
 </h1>
 
-## 💻 Resumo do projeto
+## 💻 Repository summary
 
-Um clone da interface da Web do Whatsapp com uma conversa selecionada cumprimentando os visitantes com a opção de rolar pela própria conversa e no chat.
+A Whatsapp web interface clone with a selected conversation greeting visitors with the option to scroll through the conversation itself and in the chat.
 
 ```text
-⚠ ESTE PROJETO É APENAS UM ESTUDO NÃO UTILIZADO DE MANEIRA MALIOSA
+⚠ THESE PROJECTS ARE JUST A MALICIOUS UNUSED STUDY
 ```
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
-#### Projeto foi construído utilizando **HTML** e CSS mas o que é isso ?
+#### Project was built using **HTML** and **CSS** but what is this?
 
-- **HTML** ou HyperText Markup Language, que significa: "Linguagem de Marcação de Hipertexto" é uma linguagem de marcação utilizada na construção do "esqueleto" de páginas na Web.
+- **HTML** or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
 
-- **CSS** ou Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web.
+- **CSS** or Cascading Style Sheets is a mechanism for adding style to a web document.
 
-## 🔨 Instalação Local
+## 🔨 Local Installation
 
-Você precisará do [GIT](https://git-scm.com/) na versão mais atualizada, instalado no seu computador para continuar.
+You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
 $ cd whatsapp-simple-clone
 $ code .
 ```
 
-E agora para rodar nossa animação localmente basta abrir o arquivo `index.html` e abrir com a extensão do **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
+And now to run our portal locally just open the `index.html` file and open it with the **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** extension**
 
 ## 📖 License
 
-Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under license from MIT. See the [LICENSE](LICENSE.md) file for more details.
