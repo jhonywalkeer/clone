@@ -16,9 +16,9 @@ Simple clone of Twitch UI showing a main screen with live streams and games.
 
 #### Project was built using **HTML** and **CSS** but what is this?
 
-- **HTML** or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
+- **HTML** - Or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
 
-- **CSS** or Cascading Style Sheets is a mechanism for adding style to a web document.
+- **CSS** - Or Cascading Style Sheets is a mechanism for adding style to a web document.
 
 ## 🔨 Local Installation
 
