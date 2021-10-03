@@ -5,7 +5,7 @@
 
 ## 💻 Repository summary
 
-Clone simples da IU do Windows 8 mostrando a área de trabalho principal com os famosos cards
+Simple clone of Windows 8 UI showing main desktop with famous cards
 
 ```text
 ⚠ THESE PROJECTS ARE JUST A MALICIOUS UNUSED STUDY
@@ -15,9 +15,9 @@ Clone simples da IU do Windows 8 mostrando a área de trabalho principal com os 
 
 #### Project was built using **HTML** and **CSS** but what is this?
 
-- **HTML** or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
+- **HTML** - Or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
 
-- **CSS** or Cascading Style Sheets is a mechanism for adding style to a web document.
+- **CSS** - Or Cascading Style Sheets is a mechanism for adding style to a web document.
 
 
 ## 🔨 Local Installation
