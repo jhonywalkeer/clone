@@ -9,7 +9,7 @@
 Simple clone of Twitch UI showing a main screen with live streams and games.
 
 ```text
-⚠ THESE PROJECTS ARE JUST A MALICIOUS UNUSED STUDY
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
 
 ## 🛠 Technologies

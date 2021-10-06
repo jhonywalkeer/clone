@@ -8,7 +8,7 @@
 Netflix UI clone, functional and able to access (no email and password required) the series list, selected series and player loading
 
 ```text
-⚠ THESE PROJECTS ARE JUST A MALICIOUS UNUSED STUDY
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
 
 ## 🛠 Technologies

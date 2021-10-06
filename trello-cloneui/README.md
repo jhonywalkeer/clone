@@ -1,15 +1,15 @@
-
 <h1 align="center">
-    <img src="./assets/icon-repo-whatsapp.png" alt="Whatsapp Web Clone by Jhony Walker" width="300px" />
+    <img src="./images/icon-repo-trello.png" alt="Trello Clone Interface by Jhony Walker" width="300px" />
 </h1>
 
-## 💻 Repository summary
+## :clipboard: About the project
 
-A Whatsapp web interface clone with a selected conversation greeting visitors with the option to scroll through the conversation itself and in the chat.
+A clone with only the look of the web version of Trello
 
 ```text
 ⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
+
 ## 🛠 Technologies
 
 #### Project was built using **HTML** and **CSS** but what is this?
@@ -18,12 +18,13 @@ A Whatsapp web interface clone with a selected conversation greeting visitors wi
 
 - **CSS** - Or Cascading Style Sheets is a mechanism for adding style to a web document.
 
+
 ## 🔨 Local Installation
 
 You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
-$ cd whatsapp-simple-clone
+$ cd trello-cloneui
 $ code .
 ```
 

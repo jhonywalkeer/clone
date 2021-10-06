@@ -8,7 +8,7 @@
 Simple clone of Windows 8 UI showing main desktop with famous cards
 
 ```text
-⚠ THESE PROJECTS ARE JUST A MALICIOUS UNUSED STUDY
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
 
 ## 🛠 Technologies

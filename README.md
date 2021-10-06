@@ -15,6 +15,8 @@ This repository is a compilation of all clones of systems, portals, etc... that 
 
 - [Tinder web UI](https://github.com/jhonywalkeer/clone/tree/master/tinder-web-cloneui) - UI clone with just the look and feel of the web version of Tinder.
 
+- [Trello UI](https://github.com/jhonywalkeer/clone/tree/master/trello-cloneui) - A clone with only the look of the web version of Trello
+
 - [Twitch UI](https://github.com/jhonywalkeer/clone/tree/master/twitch-ui) - Simple clone of the Twitch UI showing a main screen with live streams and games.
 
 - [Whatsapp UI](https://github.com/jhonywalkeer/clone/tree/master/whatsapp-simple-clone) - Clone the Whatsapp Web UI with a selected conversation greeting visitors with the option to scroll through the conversation itself and in the chat.
