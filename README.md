@@ -3,23 +3,23 @@
 This repository is a compilation of all clones of systems, portals, etc... that I created.
 
 ```text
-⚠ THESE PROJECTS ARE JUST A MALICIOUS UNUSED STUDY
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
 
 ## 🚩 Navigating through projects
 
 
-- [CMD Windows UI](https://github.com/JhonyWalker-pixel/clone/tree/master/cmd-ui-clone) - UI clone of the most famous CMD in the world that is present in Windows.
+- [CMD Windows UI](https://github.com/jhonywalkeer/clone/tree/master/cmd-ui-clone) - UI clone of the most famous CMD in the world that is present in Windows.
 
-- [Netflix UI](https://github.com/JhonyWalker-pixel/clone/tree/master/netflix-simpleui) - Netflix UI clone, functional and able to access (no email and password required) the series list, selected series and player loading
+- [Netflix UI](https://github.com/jhonywalkeer/clone/tree/master/netflix-simpleui) - Netflix UI clone, functional and able to access (no email and password required) the series list, selected series and player loading
 
-- [Tinder web UI](https://github.com/JhonyWalker-pixel/clone/tree/master/tinder-web-cloneui) - UI clone with just the look and feel of the web version of Tinder.
+- [Tinder web UI](https://github.com/jhonywalkeer/clone/tree/master/tinder-web-cloneui) - UI clone with just the look and feel of the web version of Tinder.
 
-- [Twitch UI](https://github.com/JhonyWalker-pixel/clone/tree/master/twitch-ui) - Simple clone of the Twitch UI showing a main screen with live streams and games.
+- [Twitch UI](https://github.com/jhonywalkeer/clone/tree/master/twitch-ui) - Simple clone of the Twitch UI showing a main screen with live streams and games.
 
-- [Whatsapp UI](https://github.com/JhonyWalker-pixel/clone/tree/master/whatsapp-simple-clone) - Clone the Whatsapp Web UI with a selected conversation greeting visitors with the option to scroll through the conversation itself and in the chat.
+- [Whatsapp UI](https://github.com/jhonywalkeer/clone/tree/master/whatsapp-simple-clone) - Clone the Whatsapp Web UI with a selected conversation greeting visitors with the option to scroll through the conversation itself and in the chat.
 
-- [Windows 8 Workspace UI](https://github.com/JhonyWalker-pixel/clone/tree/master/windows-8-workspace-clone) - Twitch UI clone showing a main screen with live streams and games.
+- [Windows 8 Workspace UI](https://github.com/jhonywalkeer/clone/tree/master/windows-8-workspace-clone) - Twitch UI clone showing a main screen with live streams and games.
 
 
 ## 🛠 Technologies
@@ -31,7 +31,7 @@ Projects were built with different technologies and dependencies
 You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
-git clone https://github.com/JhonyWalker-pixel/clones.git
+git clone https://github.com/jhonywalkeer/clones.git
 
 $ cd clones
 $ code .
