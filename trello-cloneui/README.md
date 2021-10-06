@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./images/icon-repo-trello.png" alt="Trello Clone Interface by Jhony Walker" width="300px" />
+    <img src="./assets/images/icon-repo-trello.png" alt="Trello Clone Interface by Jhony Walker" width="300px" />
 </h1>
 
 ## 💻 Repository summary
