@@ -1,13 +1,14 @@
+
 <h1 align="center">
-    <img src="./images/icon-repo-trello.png" alt="Trello Clone Interface by Jhony Walker" width="300px" />
+    <img src="./imagens/logo-repo-google.png" alt="Google Search Page Clone by Jhony Walker" width="300px" />
 </h1>
 
 ## 💻 Repository summary
 
-A clone with only the look of the web version of Trello
+The most famous web search page in the world, but this style before the implementation of the famous rounding aside the tips.
 
 ```text
-⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
+⚠ THESE PROJECTS ARE JUST A MALICIOUS UNUSED STUDY
 ```
 
 ## 🛠 Technologies
@@ -18,13 +19,12 @@ A clone with only the look of the web version of Trello
 
 - **CSS** - Or Cascading Style Sheets is a mechanism for adding style to a web document.
 
-
 ## 🔨 Local Installation
 
 You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
-$ cd trello-cloneui
+$ cd google-search-clone
 $ code .
 ```
 

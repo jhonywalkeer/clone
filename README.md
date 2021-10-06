@@ -9,7 +9,9 @@ This repository is a compilation of all clones of systems, portals, etc... that 
 ## 🚩 Navigating through projects
 
 
-- [CMD Windows UI](https://github.com/jhonywalkeer/clone/tree/master/cmd-ui-clone) - UI clone of the most famous CMD in the world that is present in Windows.
+- [CMD Windows UI](https://github.com/jhonywalkeer/clone/tree/master/cmd-ui-clone) - The most famous web search page in the world, but this style before the implementation of the famous rounding aside the tips.
+
+- [Google Search UI](https://github.com/jhonywalkeer/clone/tree/master/google-search-clone) - UI clone of the most famous CMD in the world that is present in Windows.
 
 - [Netflix UI](https://github.com/jhonywalkeer/clone/tree/master/netflix-simpleui) - Netflix UI clone, functional and able to access (no email and password required) the series list, selected series and player loading
 
