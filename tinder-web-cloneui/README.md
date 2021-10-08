@@ -7,7 +7,7 @@
 A simple clone with just the look and feel of the web version of Tinder.
 
 ```text
-⚠ THESE PROJECTS ARE JUST A MALICIOUS UNUSED STUDY
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
 
 ## 🛠 Technologies
