@@ -8,7 +8,7 @@
 The most famous web search page in the world, but this style before the implementation of the famous rounding aside the tips.
 
 ```text
-⚠ THESE PROJECTS ARE JUST A MALICIOUS UNUSED STUDY
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
 ```
 
 ## 🛠 Technologies
