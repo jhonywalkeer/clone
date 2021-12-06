@@ -5,7 +5,7 @@ Inter Redesign" src="./src/assets/images/logo.svg" />
 
 ## 💻 Project summary
 
-Redesign of Banco Inter's Internet Banking using the original interface as a basis. To view the design just [click here]("./src/assets/images/screenshots").
+Redesign of Banco Inter's Internet Banking using the original interface as a basis. To view the design just [click here](https://github.com/jhonywalkeer/clone/tree/master/inter-redesign/src/assets/images/screenshots).
 
 ## 🛠 Technologies
 
