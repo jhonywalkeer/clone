@@ -7,6 +7,10 @@ Inter Redesign" src="./src/assets/images/logo.svg" />
 
 Redesign of Banco Inter's Internet Banking using the original interface as a basis. To view the design just [click here](https://github.com/jhonywalkeer/clone/tree/master/inter-redesign/src/assets/images/screenshots).
 
+```text
+⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
+```
+
 ## 🛠 Technologies
 
 Project was built using **React.js**, **Typescript** and the following dependencies:
