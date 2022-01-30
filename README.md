@@ -12,7 +12,7 @@ This repository is a compilation of all clones of systems, portals, etc... that 
 
 - **[Google Search UI](https://github.com/jhonywalkeer/clone/tree/master/google-search-clone)** - UI clone of the most famous CMD in the world that is present in Windows. It was built using only HTML and CSS.
 
-- **[Inter UI Redesign](https://github.com/jhonywalkeer/clone/tree/master/inter-redesign)** - Redesign of Banco Inter's Internet Banking using as a basis the original interface and React.js with Typescript.
+- **[Inter UI Redesign](https://github.com/jhonywalkeer/clone/tree/master/inter-redesign)** - Redesign of Banco Inter's Internet Banking using as a basis the original interface. It was built using only React.js with Typescript.
 
 - **[Netflix UI](https://github.com/jhonywalkeer/clone/tree/master/netflix-simpleui)** - Netflix UI clone, functional and able to access (no email and password required) the series list, selected series and player loading. It was built using only HTML and CSS.
 
