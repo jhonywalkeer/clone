@@ -1,6 +1,6 @@
 <h1 align="center">
     <img width="40%"  alt="Icon Repo" title="
-Inter Redesign" src="./src/assets/images/logo.svg" />
+Inter Redesign" src="./src/assets/images/icon-repo.png" />
 </h1>
 
 ## 💻 Project summary
