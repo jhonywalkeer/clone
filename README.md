@@ -6,9 +6,9 @@
 
 This repository is a compilation of all clones of systems, portals, etc... that I created.
 
-```text
-⚠ THESE PROJECTS ARE FOR STUDY ONLY, NOT MALICIOUSLY USED
-```
+<h1 align="center">
+    <img width="50%"  alt="Study" title="Repository Clone" src="./readme/assets/images/study.svg" />
+</h1>
 
 ## 🚩 Navigating through projects
 
